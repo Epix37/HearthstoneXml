@@ -54,6 +54,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.deDE.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.enGB.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.enUS.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.esES.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.esMX.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.frFR.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.itIT.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.koKR.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.plPL.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.ptBR.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.ruRU.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.zhCN.xml" />
+    <Content Include="XmlFiles\3.0.0.10357\cardDB.zhTW.xml" />
     <Content Include="XmlFiles\3.0.0.9876\cardDB.deDE.xml" />
     <Content Include="XmlFiles\3.0.0.9876\cardDB.enGB.xml" />
     <Content Include="XmlFiles\3.0.0.9876\cardDB.enUS.xml" />

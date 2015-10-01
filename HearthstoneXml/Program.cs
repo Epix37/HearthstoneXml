@@ -115,7 +115,8 @@ namespace HearthstoneXml
 		private static void BuildXmlFiles()
 		{
 			Console.WriteLine("Deleting old files...");
-			Directory.Delete("Files", true);
+			if(Directory.Exists("Files"))
+				Directory.Delete("Files", true);
 			Console.WriteLine("Building XML files...");
 			const string dir = @"cardxml0\CAB-cardxml0\TextAsset";
 			var dirInfo = new DirectoryInfo(dir);
